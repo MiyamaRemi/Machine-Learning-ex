@@ -1,5 +1,5 @@
 # Machine-Learning-ex
 
-For self exercise.<br> 
-Exercises from Andrew WU-Machine learning.<br>
-Based on Python 3 (reference to others Python 2 codes)
+Self exercise.<br> 
+Exercises from Andrew WU - Machine Learning.<br>
+Based on Python 3 (refer to others Python 2 examples)
